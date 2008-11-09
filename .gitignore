@@ -1,0 +1,4 @@
+*.exe
+bin
+*.dll
+*.db
